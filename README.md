@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Meet Patel 👋</h1>
 
-<!--
-**meetpatel1076/meetpatel1076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Full-Stack Developer • MERN Stack • C++ & DSA
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I build useful products, explore new technologies, and turn ideas into real-world applications.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/meetpatel1076">GitHub</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+</p>
